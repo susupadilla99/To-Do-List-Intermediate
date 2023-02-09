@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/susupadilla99/To-Do-List-Intermediate/issues"
   },
-  "homepage": "https://github.com/susupadilla99/To-Do-List-Intermediate#readme"
+  "homepage": "https://github.com/susupadilla99/To-Do-List-Intermediate#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
 }
