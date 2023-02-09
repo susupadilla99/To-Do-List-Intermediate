@@ -2,7 +2,7 @@
   "name": "to_do_list_intermediate",
   "version": "1.0.0",
   "description": "A to do list app with some extra features",
-  "main": "main.js",
+  "main": "main.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
